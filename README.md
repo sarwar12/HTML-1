@@ -61,7 +61,8 @@
 	style=""   (style attributes/ inline css)
 		
 		<p style="color:red;">This is my world</p>
-### Many Symbol: < - Less than 
+### Many Symbol: 
+		< - Less than 
 		> - Greater Than 
 		& - Ampersand
 		! - Exclamation Mark
