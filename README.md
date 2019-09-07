@@ -47,7 +47,7 @@
 	Heading= align (left, right, center, justify), title
 	paragraph= align
 	Font= color (use 3color-rgb,hexa,color), size, face(you call many fonts ex: arial, verdana)
-	imgage= src, alt, height, width, align
+	imgage= src, alt, height, width
 	anchor= href, target(_blank, _self)
 
 
