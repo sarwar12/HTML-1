@@ -1,6 +1,7 @@
 # HTML-1
 ### Browser:
 	Google chrome, Mozila firefox, Opera, Safari
+	
 ### Editor:
 
 	Notepad, Notepad++, Visual Studio, Brackets,Dreamweaver
@@ -34,10 +35,10 @@
 	12. StrickThrough Tag: <del> </del>
 	13. UnderLine Tag: <u> </u>
 	14. image tag: <img />
-	15. Anchor Tag: (<a>) (internal, local, global)
+	15. Anchor Tag: <a> </a> ---- (internal, local, global)
 	16. Quotation Tag: <q> </q>
 	17. Center Tag: <center> </center>
-	18. Span Tag: <span></span> ---inline element
+	18. Span Tag: <span></span> --- inline element
 	19. Pre Tag: <pre></pre> (you write any paragraph, pre tag show brower this style)
 	20. Code Tag: <code></code> (use code font and show the browser) -- inline element
 
@@ -52,8 +53,8 @@
 
 
 ### Element:
-	Block Element (div, p, h1-h6, ul, li)
-	Inline Element (a,i, b, span, strong)
+	Block Element (div, p, h1, h2, h3, h4, h5, h6, ul, li)
+	Inline Element (a,i, b, span, strong, big, small)
 
 ### Main 16 color: Black, Yellow, Red, Maroon, Gray, Lime, Green, Olive, Silver, Aqua, Blue, Navy, 		  						White, Fuchcia, Purple, Teal
 
@@ -69,7 +70,7 @@
 
 
 
-
+***
 ## G_SARWAR
 ### Web_Instructor
 	
